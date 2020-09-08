@@ -14,9 +14,19 @@ const (
 	PosIdPron POSId = 5
 	PosIdNum  POSId = 6
 	PosIdAdv  POSId = 7
+
+	PosIdNns POSId = 30
+	PosIdJjr POSId = 40
+	PosIdJjs POSId = 41
+	PosIdRbr POSId = 42
+	PosIdRbs POSId = 43
+	PosIdVbd POSId = 44
+	PosIdVbn POSId = 45
+	PosIdVbg POSId = 46
+	PosIdVbp POSId = 47
+	PosIdVbz POSId = 48
 )
 
-// https://universaldependencies.org/u/pos/
 const (
 	PosNoun POS = "NOUN"
 	PosAdj  POS = "ADJ"
@@ -24,4 +34,15 @@ const (
 	PosPron POS = "PRON"
 	PosNum  POS = "NUM"
 	PosAdv  POS = "ADV"
+
+	PosNns POS = "NNS"
+	PosJjr POS = "JJR"
+	PosJjs POS = "JJS"
+	PosRbr POS = "RBR"
+	PosRbs POS = "RBS"
+	PosVbd POS = "VBD"
+	PosVbn POS = "VBN"
+	PosVbg POS = "VBG"
+	PosVbp POS = "VBP"
+	PosVbz POS = "VBZ"
 )
