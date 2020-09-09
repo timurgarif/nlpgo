@@ -46,3 +46,23 @@ const (
 	PosVbp POS = "VBP"
 	PosVbz POS = "VBZ"
 )
+
+var posForms = map[POSId]POSId{
+	PosIdNns: PosIdNoun,
+	PosIdJjr: PosIdAdj,
+	PosIdJjs: PosIdAdj,
+	PosIdRbr: PosIdAdv,
+	PosIdRbs: PosIdAdv,
+	PosIdVbd: PosIdVerb,
+	PosIdVbn: PosIdVerb,
+	PosIdVbg: PosIdVerb,
+	PosIdVbp: PosIdVerb,
+	PosIdVbz: PosIdVerb,
+}
+
+func (p POSId) HasForm(f POSId) bool {
+	if pos, ok := posForms[f]; ok {
+		return pos == p
+	}
+	return false
+}
