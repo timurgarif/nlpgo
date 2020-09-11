@@ -47,6 +47,16 @@ func TestResolve(t *testing.T) {
 				},
 			},
 		},
+		{
+			Affix: "л",
+			Pos:   []nlpgo.POSId{nlpgo.PosIdVbd},
+			Transforms: []RuleTransform{
+				{
+					Cutoff:  1,
+					Augment: "ть",
+				},
+			},
+		},
 	}
 	lmChecker := NewLemmaIndex(map[string][]nlpgo.POSId{
 		"brainstorm":    {2, 4},
@@ -61,6 +71,7 @@ func TestResolve(t *testing.T) {
 		"stripe":        {2, 4},
 		"tie":           {2, 4},
 		"white-tie":     {3},
+		"слушать":       {4},
 	})
 
 	emptyResolver := NewSuffixRuleResolver(nil, nil)
@@ -129,6 +140,11 @@ func TestResolve(t *testing.T) {
 			in:  "white-tying",
 			out: nil,
 			msg: "Expect white-tying not matched, because it has no VERB POS in lemma index",
+		},
+		{
+			in:  "слушал",
+			out: []Lemma{{Val: "слушать", Pos: []nlpgo.POSId{nlpgo.PosIdVbd}}},
+			msg: "Expect rune words are handled correctly",
 		},
 	}
 

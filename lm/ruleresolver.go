@@ -114,7 +114,7 @@ func (rt *RuleTransform) transform(lexeme string, lxmRuneLen int) string {
 		return ""
 	}
 
-	c := string([]rune(lexeme[:detachIndex])) + rt.Augment
+	c := string([]rune(lexeme)[:detachIndex]) + rt.Augment
 
 	// Apply post-op regexp
 	if rt.ReAfter != nil && !rt.ReAfter.MatchString(c) {
