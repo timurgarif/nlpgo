@@ -41,7 +41,7 @@ func TestPosHasForm(t *testing.T) {
 		},
 	}
 
-	for _, t := range cases {
-		assert.Equal(t.out, t.obj.HasForm(t.subj), t.msg)
+	for _, tt := range cases {
+		assert.Equal(tt.out, tt.obj.HasForm(tt.subj), tt.msg)
 	}
 }
