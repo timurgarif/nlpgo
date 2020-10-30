@@ -1,3 +1,4 @@
+// Package nlpgo provides basic NLP defs used in sub-packages.
 package nlpgo
 
 type POS string
