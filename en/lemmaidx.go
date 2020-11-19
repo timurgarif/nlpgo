@@ -95,7 +95,7 @@ var (
 	abc                             2
 	abc's                           2
 	abcoulomb                       2
-	abcs                            2
+	abc                             2
 	abdias                          2
 	abdicable                       3
 	abdicate                        4
@@ -792,7 +792,6 @@ var (
 	acre                            2
 	acre-foot                       2
 	acreage                         2
-	acres                           2
 	acrid                           3
 	acridid                         2
 	acrididae                       2
@@ -920,7 +919,6 @@ var (
 	actomyosin                      2
 	actor                           2
 	actress                         2
-	acts                            2
 	actual                          3
 	actualisation                   2
 	actualise                       4
@@ -1446,7 +1444,6 @@ var (
 	affably                         7
 	affair                          2
 	affaire                         2
-	affairs                         2
 	affect                          4 2
 	affectation                     2
 	affected                        3
@@ -1895,7 +1892,6 @@ var (
 	airplane                        2
 	airport                         2
 	airpost                         2
-	airs                            2
 	airscrew                        2
 	airship                         2
 	airsick                         3
@@ -2120,7 +2116,6 @@ var (
 	aleuronic                       3
 	aleut                           2
 	aleutian                        3 2
-	aleutians                       2
 	aleve                           2
 	alewife                         2
 	alexander                       2
@@ -2344,7 +2339,6 @@ var (
 	alliaria                        2
 	allice                          2
 	allied                          3
-	allies                          2
 	alligator                       2 4
 	alligatored                     3
 	alligatorfish                   2
@@ -2711,9 +2705,7 @@ var (
 	amendatory                      3
 	amended                         3
 	amendment                       2
-	amends                          2
 	amenia                          2
-	amenities                       2
 	amenity                         2
 	amenorrhea                      2
 	amenorrheal                     3
@@ -3028,7 +3020,6 @@ var (
 	anagrammatical                  3
 	anagrammatise                   4
 	anagrammatize                   4
-	anagrams                        2
 	anagyris                        2
 	anaheim                         2
 	anal                            3
@@ -3159,7 +3150,6 @@ var (
 	ancient                         3 2
 	anciently                       7
 	ancientness                     2
-	ancients                        2
 	ancillary                       3
 	ancistrodon                     2
 	ancohuma                        2
@@ -3446,7 +3436,6 @@ var (
 	ankle-deep                      3
 	anklebone                       2
 	anklet                          2
-	anklets                         2
 	ankus                           2
 	ankyloglossia                   2
 	ankylosaur                      2
@@ -4838,7 +4827,6 @@ var (
 	armoury                         2
 	armpit                          2
 	armrest                         2
-	arms                            2
 	arms-runner                     2
 	armstrong                       2
 	army                            2
@@ -5010,7 +4998,6 @@ var (
 	artlessness                     2
 	artocarpus                      2
 	artois                          2
-	arts                            2
 	artsd                           2
 	artsy-craftsy                   3
 	artwork                         2
@@ -6624,7 +6611,6 @@ var (
 	balto-slavonic                  2
 	baluchi                         2
 	baluster                        2
-	balusters                       2
 	balustrade                      2
 	balzac                          2
 	balzacian                       3
@@ -6708,7 +6694,6 @@ var (
 	bankroll                        2 4
 	bankrupt                        4 2 3
 	bankruptcy                      2
-	banks                           2
 	banksia                         2
 	banned                          3
 	banner                          2 3
@@ -6749,7 +6734,6 @@ var (
 	baptistery                      2
 	baptistic                       3
 	baptistry                       2
-	baptists                        2
 	baptize                         4
 	baptized                        3
 	bar                             4 2
@@ -6907,7 +6891,6 @@ var (
 	barrelful                       2
 	barrelhouse                     2
 	barrelled                       3
-	barrels                         2
 	barren                          2 3
 	barrenness                      2
 	barrenwort                      2
@@ -6927,7 +6910,6 @@ var (
 	barrow-man                      2
 	barrowful                       2
 	barrymore                       2
-	bars                            2
 	barstow                         2
 	bart                            2
 	bartender                       2
@@ -7111,7 +7093,6 @@ var (
 	batrachoididae                  2
 	batrachomyomachia               2
 	batrachoseps                    2
-	bats                            3
 	batsman                         2
 	batswana                        2
 	battalion                       2
@@ -7202,7 +7183,6 @@ var (
 	beading                         2
 	beadle                          2
 	beadlike                        3
-	beads                           2
 	beadsman                        2
 	beadwork                        2
 	beady                           3
@@ -7264,7 +7244,6 @@ var (
 	beatnik                         2
 	beatniks                        2
 	beatrice                        2
-	beats                           2
 	beau                            2
 	beaugregory                     2
 	beaujolais                      2
@@ -7556,7 +7535,6 @@ var (
 	bellow                          2 4
 	bellower                        2
 	bellowing                       2
-	bellows                         2
 	bellpull                        2
 	bellwether                      2
 	bellwort                        2
@@ -7618,7 +7596,6 @@ var (
 	bender                          2
 	bending                         2
 	bendopa                         2
-	bends                           2
 	beneath                         7
 	benedick                        2
 	benedict                        2
@@ -8047,7 +8024,7 @@ var (
 	bihari                          2
 	bijou                           2
 	bike                            2 4
-	bikers                          2
+	biker                           2
 	bikini                          2
 	bilabial                        2 3
 	bilabiate                       3
@@ -8085,7 +8062,6 @@ var (
 	billfold                        2
 	billhook                        2
 	billiard                        3
-	billiards                       2
 	billing                         2
 	billings                        2
 	billingsgate                    2
@@ -8365,7 +8341,6 @@ var (
 	bitterness                      2
 	bitternut                       2
 	bitterroot                      2
-	bitters                         2
 	bittersweet                     3 2
 	bitterweed                      2
 	bitterwood                      2
@@ -8584,7 +8559,6 @@ var (
 	bleach                          4 2
 	bleached                        3
 	bleacher                        2
-	bleachers                       2
 	bleak                           3
 	bleakly                         7
 	bleakness                       2
@@ -8656,7 +8630,6 @@ var (
 	blink                           2 4
 	blinker                         4 2
 	blinking                        2 3
-	blinks                          2
 	blintz                          2
 	blintze                         2
 	bliny                           2
@@ -8751,7 +8724,6 @@ var (
 	bloom                           4 2
 	bloomer                         2
 	bloomeria                       2
-	bloomers                        2
 	bloomfield                      2
 	blooming                        3 2
 	bloomington                     2
@@ -8898,7 +8870,6 @@ var (
 	boarding                        2
 	boardinghouse                   2
 	boardroom                       2
-	boards                          2
 	boardwalk                       2
 	boarfish                        2
 	boarhound                       2
@@ -8928,7 +8899,6 @@ var (
 	bobby                           2
 	bobby-socker                    2
 	bobbysock                       2
-	bobbysocks                      2
 	bobbysoxer                      2
 	bobcat                          2
 	bobfloat                        2
@@ -9040,7 +9010,6 @@ var (
 	bollard                         2
 	bollix                          4
 	bollock                         2
-	bollocks                        4
 	bollworm                        2
 	bollywood                       2
 	bolo                            2
@@ -9133,7 +9102,6 @@ var (
 	bonelike                        3
 	bonemeal                        2
 	boner                           2
-	bones                           2
 	boneset                         2
 	bonesetter                      2
 	boneshaker                      2
@@ -9431,7 +9399,6 @@ var (
 	boundless                       3
 	boundlessly                     7
 	boundlessness                   2
-	bounds                          2
 	bounteous                       3
 	bounteously                     7
 	bounteousness                   2
@@ -9482,7 +9449,6 @@ var (
 	bowed                           3
 	bowel                           2
 	bowelless                       3
-	bowels                          2
 	bower                           4 2
 	bowerbird                       2
 	bowery                          3 2
@@ -9502,7 +9468,6 @@ var (
 	bowlful                         2
 	bowline                         2
 	bowling                         2
-	bowls                           2
 	bowman                          2
 	bowse                           4
 	bowsprit                        2
@@ -9512,7 +9477,6 @@ var (
 	box-shaped                      3
 	boxberry                        2
 	boxcar                          2
-	boxcars                         2
 	boxed                           3
 	boxed-in                        3
 	boxer                           2
@@ -9553,7 +9517,6 @@ var (
 	bracelet                        2
 	bracer                          2
 	bracero                         2
-	braces                          2
 	brachial                        3
 	brachiate                       4 3
 	brachiation                     2
@@ -9655,7 +9618,6 @@ var (
 	braising                        2
 	brake                           4 2
 	brakeman                        2
-	brakes                          2
 	braky                           3
 	braless                         3
 	brama                           2
@@ -9785,7 +9747,6 @@ var (
 	breakaxe                        2
 	breakdown                       2
 	breaker                         2
-	breakers                        2
 	breakfast                       4 2
 	breaking                        2
 	breakneck                       3
@@ -9830,7 +9791,6 @@ var (
 	breechcloth                     2
 	breechclout                     2
 	breeched                        3
-	breeches                        2
 	breechloader                    2
 	breed                           4 2
 	breeder                         2
@@ -9904,7 +9864,6 @@ var (
 	bridged-t                       2
 	bridgehead                      2
 	bridgeport                      2
-	bridges                         2
 	bridget                         2
 	bridgetown                      2
 	bridgework                      2
@@ -9917,7 +9876,6 @@ var (
 	briefless                       3
 	briefly                         7
 	briefness                       2
-	briefs                          2
 	brier                           2
 	brier-wood                      2
 	brierpatch                      2
@@ -10002,7 +9960,6 @@ var (
 	britisher                       2
 	britishism                      2
 	briton                          2 3
-	brits                           2
 	britt                           2
 	brittanic                       2
 	brittany                        2
@@ -10123,7 +10080,6 @@ var (
 	brooklet                        2
 	brooklime                       2
 	brooklyn                        2
-	brooks                          2
 	brookweed                       2
 	broom                           2 4
 	broom-weed                      2
@@ -10314,7 +10270,6 @@ var (
 	buckshee                        3
 	buckshot                        2
 	buckskin                        2
-	buckskins                       2
 	buckthorn                       2
 	bucktooth                       2
 	buckwheat                       2
@@ -10509,7 +10464,6 @@ var (
 	bunko                           2
 	bunkum                          2
 	bunny                           2
-	buns                            2
 	bunsen                          2
 	bunt                            4 2
 	buntal                          2
@@ -10602,7 +10556,6 @@ var (
 	burnoose                        2
 	burnous                         2
 	burnouse                        2
-	burns                           2
 	burnside                        2
 	burnt                           3
 	burnt-out                       3
@@ -10737,7 +10690,6 @@ var (
 	buttery                         3 2
 	buttinsky                       2
 	buttock                         2
-	buttocks                        2
 	button                          2 4
 	button-down                     3
 	button-quail                    2
@@ -11401,7 +11353,6 @@ var (
 	candlemas                       2
 	candlenut                       2
 	candlepin                       2
-	candlepins                      2
 	candlepower                     2
 	candlesnuffer                   2
 	candlestick                     2
@@ -11509,7 +11460,6 @@ var (
 	cantharellus                    2
 	canthus                         2
 	canticle                        2
-	canticles                       2
 	cantilever                      4 2
 	cantillate                      4
 	cantillation                    2
@@ -11793,7 +11743,6 @@ var (
 	cardizem                        2
 	cardoon                         2
 	cardroom                        2
-	cards                           2
 	cardsharp                       2
 	cardsharper                     2
 	carducci                        2
@@ -11841,7 +11790,6 @@ var (
 	caricaceae                      2
 	caricature                      4 2
 	caricaturist                    2
-	caries                          2
 	carillon                        2
 	carillonneur                    2
 	carina                          2
@@ -12036,7 +11984,6 @@ var (
 	casbah                          2
 	cascabel                        2
 	cascade                         4 2
-	cascades                        2
 	cascara                         2
 	cascarilla                      2
 	case                            3 2 4
@@ -12866,7 +12813,6 @@ var (
 	chain-smoke                     4
 	chained                         3
 	chainlike                       3
-	chains                          2
 	chainsaw                        2
 	chair                           2 4
 	chairlift                       2
@@ -12928,7 +12874,6 @@ var (
 	chamberlain                     2
 	chambermaid                     2
 	chamberpot                      2
-	chambers                        2
 	chambray                        2
 	chameleon                       2
 	chamfer                         2 4
@@ -12994,7 +12939,6 @@ var (
 	channelise                      4
 	channelization                  2
 	channelize                      4
-	channels                        2
 	channidae                       2
 	channukah                       2
 	channukkah                      2
@@ -13195,7 +13139,6 @@ var (
 	checkerbloom                    2
 	checkerboard                    2
 	checkered                       3
-	checkers                        2
 	checklist                       2
 	checkmate                       4 2
 	checkout                        2
@@ -13351,7 +13294,6 @@ var (
 	chevalier                       2
 	chevaux-de-frise                2
 	cheviot                         2
-	cheviots                        2
 	chevre                          2
 	chevron                         2
 	chevrotain                      2
@@ -13421,7 +13363,6 @@ var (
 	chihuahua                       2
 	chilblain                       2
 	chilblained                     3
-	chilblains                      2
 	child                           2
 	child-centered                  3
 	child-proof                     4
@@ -13526,7 +13467,6 @@ var (
 	chippewaian                     2
 	chippewyan                      2
 	chipping                        2
-	chips                           2
 	chiralgia                       2
 	chirico                         2
 	chirk                           4
@@ -13579,7 +13519,6 @@ var (
 	chivalry                        2
 	chivaree                        2
 	chive                           2
-	chives                          2
 	chivvy                          4
 	chivy                           4
 	chiwere                         2
@@ -14080,7 +14019,6 @@ var (
 	circumspection                  2
 	circumspectly                   7
 	circumstance                    2
-	circumstances                   2
 	circumstantial                  3
 	circumstantially                7
 	circumstantiate                 4
@@ -14206,7 +14144,6 @@ var (
 	clamouring                      2
 	clamp                           4 2
 	clampdown                       2
-	clams                           2
 	clamshell                       2
 	clan                            2
 	clandestine                     3
@@ -14230,7 +14167,6 @@ var (
 	clapper                         2
 	clapperboard                    2
 	clapperclaw                     4
-	clappers                        2
 	clapping                        2
 	claptrap                        2
 	claque                          2
@@ -14320,7 +14256,6 @@ var (
 	clean-shaven                    3
 	cleanable                       3
 	cleaner                         2
-	cleaners                        2
 	cleaning                        2
 	cleanliness                     2
 	cleanly                         7 3
@@ -14346,12 +14281,10 @@ var (
 	clearway                        2
 	clearweed                       2
 	cleat                           2 4
-	cleats                          2
 	cleavable                       3
 	cleavage                        2
 	cleave                          4
 	cleaver                         2
-	cleavers                        2
 	clef                            2
 	cleft                           2 3
 	cleg                            2
@@ -14396,7 +14329,6 @@ var (
 	cleverness                      2
 	clevis                          2
 	clew                            4 2
-	clews                           2
 	cli                             2
 	clianthus                       2
 	cliche                          2
@@ -14494,7 +14426,6 @@ var (
 	clock-watching                  2
 	clocking                        2
 	clockmaker                      2
-	clocks                          2
 	clocksmith                      2
 	clockwise                       7 3
 	clockwork                       2
@@ -14584,7 +14515,6 @@ var (
 	cloudless                       3
 	cloudlessness                   2
 	cloudlike                       3
-	clouds                          3
 	cloudy                          3
 	clout                           4 2
 	clove                           2
@@ -14645,7 +14575,6 @@ var (
 	clustered                       3
 	clustering                      2
 	clutch                          2 4
-	clutches                        2
 	clutter                         2 4
 	cluttered                       3
 	clv                             3
@@ -14776,7 +14705,6 @@ var (
 	cobber                          2
 	cobble                          2 4
 	cobbler                         2
-	cobblers                        2
 	cobblestone                     4 2
 	cobbling                        2
 	cobia                           2
@@ -14932,7 +14860,6 @@ var (
 	coerebidae                      2
 	coetaneous                      3
 	coeval                          2 3
-	coevals                         2
 	coexist                         4
 	coexistence                     2
 	coexistent                      3
@@ -15081,7 +15008,6 @@ var (
 	collar                          4 2
 	collarbone                      2
 	collard                         2
-	collards                        2
 	collarless                      3
 	collate                         4
 	collateral                      2 3
@@ -15200,12 +15126,10 @@ var (
 	colorize                        4
 	colorless                       3
 	colorlessness                   2
-	colors                          2
 	colossae                        2
 	colossal                        3
 	colosseum                       2
 	colossian                       2
-	colossians                      2
 	colossus                        2
 	colostomy                       2
 	colostrum                       2
@@ -15219,7 +15143,6 @@ var (
 	colourize                       4
 	colourless                      3
 	colourlessness                  2
-	colours                         2
 	colpitis                        2
 	colpocele                       2
 	colpocystitis                   2
@@ -15333,7 +15256,6 @@ var (
 	comforting                      3
 	comfortingly                    7
 	comfortless                     3
-	comforts                        2
 	comfrey                         2
 	comfy                           3
 	comic                           2 3
@@ -15451,7 +15373,6 @@ var (
 	communicating                   2
 	communication                   2
 	communicational                 3
-	communications                  2
 	communicative                   3
 	communicativeness               2
 	communicator                    2
@@ -15585,7 +15506,6 @@ var (
 	complicity                      2
 	compliment                      4 2
 	complimentary                   3
-	compliments                     2
 	complin                         2
 	compline                        2
 	complot                         4
@@ -15803,7 +15723,6 @@ var (
 	conditioned                     3
 	conditioner                     2
 	conditioning                    2
-	conditions                      2
 	condo                           2
 	condole                         4
 	condolence                      2
@@ -15883,7 +15802,6 @@ var (
 	confine                         4
 	confined                        3
 	confinement                     2
-	confines                        2
 	confining                       3
 	confirm                         4
 	confirmable                     3
@@ -15974,7 +15892,6 @@ var (
 	congou                          2
 	congratulate                    4
 	congratulation                  2
-	congratulations                 2
 	congratulatory                  3
 	congregant                      2
 	congregate                      4
@@ -16715,7 +16632,6 @@ var (
 	cordon                          2
 	cordova                         2
 	cordovan                        2
-	cords                           2
 	corduroy                        2 4
 	corduroys                       2
 	cordwood                        2
@@ -16830,7 +16746,6 @@ var (
 	corporeal                       3
 	corporeality                    2
 	corposant                       2
-	corps                           2
 	corpse                          2
 	corpulence                      2
 	corpulency                      2
@@ -16846,7 +16761,6 @@ var (
 	corrected                       3
 	correction                      2
 	correctional                    3
-	corrections                     2
 	correctitude                    2
 	corrective                      2 3
 	correctly                       7
@@ -17019,7 +16933,6 @@ var (
 	costly                          3
 	costmary                        2
 	costochondritis                 2
-	costs                           2
 	costume                         4 2
 	costumed                        3
 	costumer                        2
@@ -17045,7 +16958,6 @@ var (
 	cotonou                         2
 	cotopaxi                        2
 	cotswold                        2
-	cotswolds                       2
 	cottage                         2
 	cottager                        2
 	cottar                          2
@@ -17320,7 +17232,6 @@ var (
 	cowpuncher                      2
 	cowrie                          2
 	cowry                           2
-	cows                            2
 	cowshed                         2
 	cowskin                         2
 	cowslip                         2
@@ -17368,7 +17279,6 @@ var (
 	cracker-barrel                  3
 	crackerberry                    2
 	crackerjack                     2
-	crackers                        3
 	cracking                        2 3
 	crackle                         4 3 2
 	crackleware                     2
@@ -17437,7 +17347,6 @@ var (
 	crapper                         2
 	crappie                         2
 	crappy                          3
-	craps                           2
 	crapshoot                       2
 	crapshooter                     2
 	crapulence                      2
@@ -17522,7 +17431,6 @@ var (
 	credendum                       2
 	credential                      2
 	credentialled                   3
-	credentials                     2
 	credenza                        2
 	credibility                     2
 	credible                        3
@@ -17533,7 +17441,6 @@ var (
 	creditably                      7
 	credited                        3
 	creditor                        2
-	credits                         2
 	creditworthiness                2
 	creditworthy                    3
 	credo                           2
@@ -17550,7 +17457,6 @@ var (
 	creeper                         2
 	creepiness                      2
 	creeping                        2
-	creeps                          2
 	creepy                          3
 	creepy-crawlies                 2
 	creepy-crawly                   3 2
@@ -18355,7 +18261,6 @@ var (
 	customhouse                     2
 	customise                       4
 	customize                       4
-	customs                         2
 	customshouse                    2
 	cut                             3 2 4
 	cut-and-dried                   3
@@ -18939,7 +18844,6 @@ var (
 	dartboard                       2
 	darter                          2
 	dartmouth                       2
-	darts                           2
 	darvon                          2
 	darwin                          2
 	darwinian                       3 2
@@ -19446,7 +19350,6 @@ var (
 	deductive                       3
 	deed                            2
 	deedbox                         2
-	deeds                           2
 	deem                            4
 	deep                            3 2 7
 	deep-chested                    3
@@ -20215,7 +20118,6 @@ var (
 	descartes                       2
 	descend                         4
 	descendant                      3 2
-	descendants                     2
 	descendent                      2 3
 	descender                       2
 	descending                      3
@@ -20248,7 +20150,6 @@ var (
 	deserter                        2
 	desertification                 2
 	desertion                       2
-	deserts                         2
 	deserve                         4
 	deserved                        3
 	deservedly                      7
@@ -20385,7 +20286,6 @@ var (
 	detail                          4 2
 	detailed                        3
 	detailing                       2
-	details                         2
 	detain                          4
 	detainee                        2
 	detainment                      2
@@ -21135,7 +21035,6 @@ var (
 	dipole                          2
 	dipped                          3
 	dipper                          2
-	dippers                         2
 	dipsacaceae                     2
 	dipsacus                        2
 	dipsomania                      2
@@ -21891,7 +21790,6 @@ var (
 	divergency                      2
 	divergent                       3
 	diverging                       3
-	divers                          3
 	diverse                         3
 	diversely                       7
 	diverseness                     2
@@ -22464,7 +22362,6 @@ var (
 	doyly                           2
 	doze                            2 4
 	dozen                           3 2
-	dozens                          2
 	dozer                           2
 	dozy                            3
 	dp                              2
@@ -22542,7 +22439,6 @@ var (
 	drastic                         3
 	drastically                     7
 	draught                         4 2
-	draughts                        2
 	draughtsman                     2
 	draughty                        3
 	dravidian                       2
@@ -22553,7 +22449,6 @@ var (
 	drawbridge                      2
 	drawee                          2
 	drawer                          2
-	drawers                         2
 	drawing                         2
 	drawknife                       2
 	drawl                           2 4
@@ -22905,7 +22800,6 @@ var (
 	dumping                         2
 	dumpling                        2
 	dumplings                       2
-	dumps                           2
 	dumpsite                        2
 	dumpster                        2
 	dumpy                           3
@@ -22926,7 +22820,6 @@ var (
 	dunkard                         2
 	dunker                          2
 	dunkerque                       2
-	dunkers                         2
 	dunkirk                         2
 	dunlin                          2
 	dunnock                         2
@@ -23229,7 +23122,6 @@ var (
 	eater                           2
 	eatery                          2
 	eating                          2
-	eats                            2
 	eaves                           2
 	eavesdrop                       4
 	eavesdropper                    2
@@ -23502,7 +23394,6 @@ var (
 	effectiveness                   2
 	effectivity                     2
 	effector                        2
-	effects                         2
 	effectual                       3
 	effectuality                    2
 	effectually                     7
@@ -23820,7 +23711,6 @@ var (
 	elemental                       3
 	elementarily                    7
 	elementary                      3
-	elements                        2
 	elemi                           2
 	eleocharis                      2
 	eleotridae                      2
@@ -24784,7 +24674,6 @@ var (
 	ephemeroptera                   2
 	ephemeropteran                  2
 	ephesian                        2 3
-	ephesians                       2
 	ephestia                        2
 	ephesus                         2
 	ephippidae                      2
@@ -26493,7 +26382,6 @@ var (
 	fallot                          2
 	fallout                         2
 	fallow                          2 3
-	falls                           2
 	false                           3 7
 	falsehood                       2
 	falsely                         7
@@ -27213,7 +27101,6 @@ var (
 	fieldhand                       2
 	fielding                        2
 	fieldmouse                      2
-	fields                          2
 	fieldsman                       2
 	fieldstone                      2
 	fieldwork                       2
@@ -27684,7 +27571,6 @@ var (
 	flapjack                        2
 	flapper                         2
 	flapping                        2
-	flaps                           2
 	flare                           4 2
 	flare-up                        2
 	flaring                         3
@@ -27733,7 +27619,6 @@ var (
 	flatly                          7
 	flatmate                        2
 	flatness                        2
-	flats                           2
 	flatten                         4
 	flattened                       3
 	flatter                         4
@@ -28161,7 +28046,6 @@ var (
 	follow-through                  2
 	follow-up                       2
 	follower                        2
-	followers                       2
 	following                       3 2
 	followup                        2
 	folly                           2
@@ -29219,12 +29103,10 @@ var (
 	fundamentalist                  2 3
 	fundamentalistic                3
 	fundamentally                   7
-	fundamentals                    2
 	funded                          3
 	funding                         2
 	fundraise                       4
 	fundraiser                      2
-	funds                           2
 	fundulus                        2
 	fundus                          2
 	funeral                         2
@@ -29444,7 +29326,6 @@ var (
 	galatea                         2
 	galatia                         2
 	galatian                        2
-	galatians                       2
 	galax                           2
 	galaxy                          2
 	galbanum                        2
@@ -30259,7 +30140,6 @@ var (
 	gibingly                        7
 	gibit                           2
 	giblet                          2
-	giblets                         2
 	gibraltar                       2
 	gibraltarian                    2 3
 	gibran                          2
@@ -30762,7 +30642,6 @@ var (
 	goblet                          2
 	goblet-shaped                   3
 	goblin                          2
-	gobs                            2
 	gobsmacked                      3
 	goby                            2
 	god                             2
@@ -30839,7 +30718,6 @@ var (
 	goldenrod                       2
 	goldenseal                      2
 	goldfield                       2
-	goldfields                      2
 	goldfinch                       2
 	goldfish                        2
 	goldilocks                      2
@@ -31016,7 +30894,6 @@ var (
 	gospel                          2
 	gospeler                        2
 	gospeller                       2
-	gospels                         2
 	gossamer                        2 3
 	gossip                          4 2
 	gossiper                        2
@@ -31403,7 +31280,6 @@ var (
 	greenockite                     2
 	greenpeace                      2
 	greenroom                       2
-	greens                          2
 	greensand                       2
 	greensboro                      2
 	greenshank                      2
@@ -31530,7 +31406,6 @@ var (
 	gristmill                       2
 	grit                            2 4
 	gritrock                        2
-	grits                           2
 	gritstone                       2
 	gritty                          3
 	grivet                          2
@@ -31541,7 +31416,6 @@ var (
 	groan                           4 2
 	groaner                         2
 	groat                           2
-	groats                          2
 	grocer                          2
 	grocery                         2
 	groenendael                     2
@@ -31612,7 +31486,6 @@ var (
 	groundling                      2
 	groundmass                      2
 	groundnut                       2
-	grounds                         2
 	groundsel                       2
 	groundsheet                     2
 	groundskeeper                   2
@@ -31906,7 +31779,6 @@ var (
 	gutierrezia                     2
 	gutless                         3
 	gutlessness                     2
-	guts                            2
 	gutsiness                       2
 	gutsy                           3
 	gutta-percha                    2
@@ -31982,7 +31854,6 @@ var (
 	gynura                          2
 	gyp                             4 2
 	gypaetus                        2
-	gyps                            2
 	gypsophila                      2
 	gypsum                          2
 	gypsy                           2
@@ -32494,7 +32365,6 @@ var (
 	handover                        2
 	handrail                        2
 	handrest                        2
-	hands                           2
 	hands-down                      3
 	hands-off                       3
 	hands-on                        3
@@ -32542,7 +32412,6 @@ var (
 	hankering                       2
 	hankey                          2
 	hankie                          2
-	hanks                           2
 	hanky                           2
 	hannibal                        2
 	hannover                        2
@@ -32996,7 +32865,6 @@ var (
 	healthiness                     2
 	healthy                         3
 	heap                            4 2
-	heaps                           7 2
 	hear                            4
 	hearable                        3
 	heard                           3
@@ -33036,7 +32904,6 @@ var (
 	heartlessness                   2
 	heartrending                    3
 	heartrot                        2
-	hearts                          2
 	heartsease                      2
 	heartseed                       2
 	heartsick                       3
@@ -33069,7 +32936,6 @@ var (
 	heaven                          2
 	heaven-sent                     3
 	heavenly                        3
-	heavens                         2
 	heavenward                      3 7
 	heavenwardly                    7
 	heavenwards                     7
@@ -33106,7 +32972,6 @@ var (
 	hebraism                        2
 	hebraist                        2
 	hebrew                          2 3
-	hebrews                         2
 	hebridean                       3
 	hebrides                        2
 	hecate                          2
@@ -33170,7 +33035,6 @@ var (
 	height                          2
 	heighten                        4
 	heightening                     3
-	heights                         2
 	heilong                         2
 	heimdal                         2
 	heimdall                        2
@@ -33481,7 +33345,6 @@ var (
 	herculean                       3
 	hercules                        2
 	hercules'-club                  2
-	hercules'-clubs                 2
 	hercules-club                   2
 	herculius                       2
 	herd                            4 2
@@ -33897,7 +33760,6 @@ var (
 	hindoostani                     2
 	hindostani                      2
 	hindquarter                     2
-	hindquarters                    2
 	hindrance                       2
 	hindshank                       2
 	hindsight                       2
@@ -33942,7 +33804,6 @@ var (
 	hippotragus                     2
 	hippy                           2
 	hipster                         2
-	hipsters                        2
 	hipsurus                        2
 	hircine                         3
 	hire                            2 4
@@ -34391,7 +34252,6 @@ var (
 	honourable                      3
 	honourableness                  2
 	honourably                      7
-	honours                         2
 	honshu                          2
 	hoo-ha                          2
 	hoo-hah                         2
@@ -34421,7 +34281,6 @@ var (
 	hooking                         2
 	hooklike                        3
 	hooknose                        2
-	hooks                           2
 	hookup                          2
 	hookworm                        2
 	hooky                           2
@@ -34431,7 +34290,6 @@ var (
 	hoopla                          2
 	hoopoe                          2
 	hoopoo                          2
-	hoops                           2
 	hoopskirt                       2
 	hooray                          2
 	hoosegow                        2
@@ -34463,7 +34321,6 @@ var (
 	hopped-up                       3
 	hopper                          2
 	hopple                          4
-	hops                            2
 	hopsack                         2
 	hopsacking                      2
 	hopscotch                       2
@@ -34652,7 +34509,6 @@ var (
 	houri                           2
 	hourlong                        3
 	hourly                          3 7
-	hours                           2
 	housatonic                      2
 	house                           4 2
 	house-builder                   2
@@ -34702,7 +34558,6 @@ var (
 	houston                         2
 	houttuynia                      2
 	houyhnhnm                       2
-	houyhnhnms                      2
 	hovea                           2
 	hovel                           2
 	hover                           4
@@ -34829,7 +34684,6 @@ var (
 	humanly                         7
 	humanness                       2
 	humanoid                        2
-	humans                          2
 	humate                          2
 	humber                          2
 	humble                          4 3
@@ -35184,7 +35038,6 @@ var (
 	hymenal                         3
 	hymenanthera                    2
 	hymeneal                        2 3
-	hymeneals                       2
 	hymenium                        2
 	hymenogastrales                 2
 	hymenomycetes                   2
@@ -37480,7 +37333,6 @@ var (
 	instruct                        4
 	instruction                     2
 	instructional                   3
-	instructions                    2
 	instructive                     3
 	instructively                   7
 	instructor                      2
@@ -38181,7 +38033,6 @@ var (
 	ironman                         2
 	ironmonger                      2
 	ironmongery                     2
-	irons                           2
 	ironshod                        3
 	ironside                        2
 	ironsides                       2
@@ -38517,7 +38368,6 @@ var (
 	jacklight                       2 4
 	jackpot                         2
 	jackrabbit                      2 4
-	jacks                           2
 	jackscrew                       2
 	jacksmelt                       2
 	jacksnipe                       2
@@ -38527,7 +38377,6 @@ var (
 	jacksonville                    2
 	jackstones                      2
 	jackstraw                       2
-	jackstraws                      2
 	jacob                           2
 	jacobean                        3 2
 	jacobi                          2
@@ -38649,7 +38498,6 @@ var (
 	jasminum                        2
 	jason                           2
 	jasper                          2
-	jaspers                         2
 	jassid                          2
 	jassidae                        2
 	jat                             2
@@ -38853,7 +38701,6 @@ var (
 	jitterbug                       2 4
 	jitteriness                     2
 	jittering                       3
-	jitters                         2
 	jittery                         3
 	jiujitsu                        2
 	jive                            4 2
@@ -38880,7 +38727,6 @@ var (
 	jocund                          3
 	jocundity                       2
 	jodhpur                         2
-	jodhpurs                        2
 	joel                            2
 	joewood                         2
 	joffre                          2
@@ -39101,7 +38947,6 @@ var (
 	juniperus                       2
 	junk                            4 2
 	junker                          2
-	junkers                         2
 	junket                          4 2
 	junketeer                       4
 	junketing                       2
@@ -40405,7 +40250,6 @@ var (
 	lamentable                      3
 	lamentably                      7
 	lamentation                     2
-	lamentations                    2
 	lamented                        3
 	lamenter                        2
 	lamenting                       3
@@ -40460,7 +40304,6 @@ var (
 	lancelot                        2
 	lanceolate                      3
 	lancer                          2
-	lancers                         2
 	lancet                          2
 	lancet-shaped                   3
 	lancetfish                      2
@@ -40781,7 +40624,6 @@ var (
 	latrine                         2
 	latrobe                         2
 	latrodectus                     2
-	lats                            2
 	latte                           2
 	latten                          2
 	latter                          2 3
@@ -40832,7 +40674,6 @@ var (
 	laurel-tree                     2
 	laureled                        3
 	laurelled                       3
-	laurels                         2
 	laurelwood                      2
 	laurens                         2
 	laurentius                      2
@@ -40878,7 +40719,6 @@ var (
 	lawn                            2
 	lawrence                        2
 	lawrencium                      2
-	laws                            2
 	lawsuit                         2
 	lawton                          2
 	lawyer                          2
@@ -40939,7 +40779,6 @@ var (
 	leaded                          3
 	leaden                          3
 	leader                          2
-	leaders                         2
 	leadership                      2
 	leading                         2 3
 	leadless                        3
@@ -41085,7 +40924,6 @@ var (
 	leftist                         2 3
 	leftmost                        3
 	leftover                        2 3
-	leftovers                       2
 	lefty                           2
 	leg                             2
 	leg-pull                        2
@@ -41271,7 +41109,6 @@ var (
 	leopardess                      2
 	leopoldville                    2
 	leotard                         2
-	leotards                        2
 	lepadidae                       2
 	lepanto                         2
 	lepas                           2
@@ -41380,7 +41217,6 @@ var (
 	lettering                       2
 	letterman                       2
 	letterpress                     2
-	letters                         2
 	letting                         2
 	lettish                         2
 	lettres                         2
@@ -41751,7 +41587,6 @@ var (
 	limb                            2
 	limbed                          3
 	limber                          4 3 2
-	limbers                         2
 	limbic                          3
 	limbless                        3
 	limbo                           2
@@ -41889,7 +41724,6 @@ var (
 	linkboy                         2
 	linked                          3
 	linkman                         2
-	links                           2
 	linksman                        2
 	linkup                          2
 	linnaea                         2
@@ -42176,7 +42010,6 @@ var (
 	loaded                          3
 	loader                          2
 	loading                         2
-	loads                           2
 	loadstar                        2
 	loadstone                       2
 	loaf                            4 2
@@ -43524,7 +43357,6 @@ var (
 	majorca                         2
 	majorette                       2
 	majority                        2
-	majors                          2
 	majuscular                      3
 	majuscule                       2 3
 	mak                             2
@@ -43541,7 +43373,6 @@ var (
 	makeover                        2
 	maker                           2
 	makeready                       2
-	makers                          2
 	makeshift                       3 2
 	makeup                          2
 	makeweight                      2
@@ -43914,7 +43745,6 @@ var (
 	mannered                        3
 	mannerism                       2
 	mannerly                        3
-	manners                         2
 	mannheim                        2
 	mannikin                        2
 	mannish                         3
@@ -44145,7 +43975,6 @@ var (
 	markov                          2
 	markova                         2
 	markovian                       3
-	marks                           2
 	marksman                        2
 	marksmanship                    2
 	markup                          2
@@ -44209,7 +44038,6 @@ var (
 	marsh                           2
 	marshal                         4 2
 	marshall                        2
-	marshals                        2
 	marshalship                     2
 	marshland                       2
 	marshmallow                     2
@@ -44347,7 +44175,6 @@ var (
 	masterly                        3
 	mastermind                      4 2
 	masterpiece                     2
-	masters                         2
 	mastership                      2
 	masterstroke                    2
 	masterwort                      2
@@ -44500,7 +44327,6 @@ var (
 	maul                            2 4
 	mauldin                         2
 	mauler                          2
-	maulers                         2
 	maulstick                       2
 	maund                           2
 	maunder                         4
@@ -44660,7 +44486,6 @@ var (
 	meaninglessness                 2
 	meanly                          7
 	meanness                        2
-	means                           2
 	meanspirited                    3
 	meanspiritedly                  7
 	meantime                        2 7
@@ -44784,7 +44609,6 @@ var (
 	medium-sized                    3
 	medivac                         2
 	medlar                          2
-	medlars                         2
 	medley                          2
 	medline                         2
 	medoc                           2
@@ -45439,7 +45263,6 @@ var (
 	methodicalness                  2
 	methodism                       2
 	methodist                       2 3
-	methodists                      2
 	methodological                  3
 	methodologically                7
 	methodology                     2
@@ -45505,7 +45328,6 @@ var (
 	mevacor                         2
 	mew                             4 2
 	mewl                            4
-	mews                            2
 	mexicali                        2
 	mexican                         3 2
 	mexican-american                2
@@ -45903,7 +45725,6 @@ var (
 	millpond                        2
 	millrace                        2
 	millrun                         2
-	mills                           2
 	millstone                       2
 	millwheel                       2
 	millwork                        2
@@ -46052,7 +45873,6 @@ var (
 	minocycline                     2
 	minor                           2 3
 	minority                        2
-	minors                          2
 	minos                           2
 	minotaur                        2
 	minoxidil                       2
@@ -46485,7 +46305,6 @@ var (
 	modishly                        7
 	modishness                      2
 	modiste                         2
-	mods                            2
 	modular                         3
 	modulate                        4
 	modulated                       3
@@ -46965,7 +46784,6 @@ var (
 	moralize                        4
 	moralizing                      2
 	morally                         7
-	morals                          2
 	morass                          2
 	moratorium                      2
 	moravia                         2
@@ -47006,7 +46824,6 @@ var (
 	morley                          2
 	mormon                          2 3
 	mormonism                       2
-	mormons                         2
 	morn                            2
 	morning                         2
 	moro                            2
@@ -48419,7 +48236,6 @@ var (
 	needlewood                      2
 	needlework                      2
 	needleworker                    2
-	needs                           7
 	needy                           2 3
 	neel                            2
 	neem                            2
@@ -49014,7 +48830,6 @@ var (
 	ninepence                       2
 	ninepenny                       3
 	ninepin                         2
-	ninepins                        2
 	niner                           2
 	nineteen                        3 2
 	nineteenth                      3 2
@@ -49938,7 +49753,6 @@ var (
 	numbering                       2
 	numberless                      3
 	numberplate                     2
-	numbers                         2
 	numbfish                        2
 	numbing                         3
 	numbly                          7
@@ -50030,7 +49844,6 @@ var (
 	nutritiousness                  2
 	nutritive                       3
 	nutritiveness                   2
-	nuts                            3
 	nutsedge                        2
 	nutshell                        2
 	nutter                          2
@@ -50064,7 +49877,6 @@ var (
 	nylghai                         2
 	nylghau                         2
 	nylon                           2
-	nylons                          2
 	nymph                           2
 	nymphaea                        2
 	nymphaeaceae                    2
@@ -50297,7 +50109,6 @@ var (
 	occasion                        2 4
 	occasional                      3
 	occasionally                    7
-	occasions                       2
 	occident                        2
 	occidental                      2 3
 	occidentalise                   4
@@ -50400,7 +50211,6 @@ var (
 	oddity                          2
 	oddly                           7
 	oddment                         2
-	oddments                        2
 	oddness                         2
 	odds                            2
 	odds-maker                      2
@@ -50984,7 +50794,6 @@ var (
 	operationalism                  2
 	operationalist                  3
 	operationally                   7
-	operations                      2
 	operative                       3 2
 	operatively                     7
 	operator                        2
@@ -51239,7 +51048,6 @@ var (
 	organizer                       2
 	organon                         2
 	organophosphate                 2
-	organs                          2
 	organza                         2
 	orgasm                          2
 	orgiastic                       3
@@ -51591,7 +51399,6 @@ var (
 	out-of-bounds                   3
 	out-of-date                     3
 	out-of-door                     3
-	out-of-doors                    2
 	out-of-school                   3
 	out-of-the-way                  3
 	out-of-town                     3
@@ -51621,7 +51428,6 @@ var (
 	outdistance                     4
 	outdo                           4
 	outdoor                         3
-	outdoors                        7 2
 	outdoorsman                     2
 	outdoorswoman                   2
 	outdoorsy                       3
@@ -51713,7 +51519,6 @@ var (
 	outsize                         2 3
 	outsized                        3
 	outskirt                        2
-	outskirts                       2
 	outsmart                        4
 	outsole                         2
 	outsource                       4
@@ -52076,7 +51881,6 @@ var (
 	ovum                            2
 	owe                             4
 	owen                            2
-	owens                           2
 	owensboro                       2
 	owing                           3
 	owl                             2
@@ -52328,7 +52132,6 @@ var (
 	painkiller                      2
 	painless                        3
 	painlessly                      7
-	pains                           2
 	painstaking                     3
 	painstakingly                   7
 	painstakingness                 2
@@ -52659,7 +52462,6 @@ var (
 	pantropical                     3
 	pantry                          2
 	pantryman                       2
-	pants                           2
 	pantsuit                        2
 	panty                           2
 	pantyhose                       2
@@ -52694,7 +52496,6 @@ var (
 	paperknife                      2
 	paperlike                       3
 	papermaking                     2
-	papers                          2
 	paperweight                     2
 	paperwork                       2
 	papery                          3
@@ -52949,7 +52750,6 @@ var (
 	parkinsonia                     2
 	parkinsonism                    2
 	parkland                        2
-	parks                           2
 	parkway                         2
 	parky                           3
 	parlance                        2
@@ -53023,7 +52823,6 @@ var (
 	parsnip                         2
 	parson                          2
 	parsonage                       2
-	parsons                         2
 	part                            4 7 2
 	part-owner                      2
 	part-singing                    2
@@ -53085,7 +52884,6 @@ var (
 	partnership                     2
 	partridge                       2
 	partridgeberry                  2
-	parts                           2
 	partsong                        2
 	parttime                        3
 	parturiency                     2
@@ -53450,7 +53248,6 @@ var (
 	pealing                         2
 	pean                            2
 	peanut                          2 3
-	peanuts                         2
 	pear                            2
 	pear-shaped                     3
 	pearl                           2 4
@@ -54552,7 +54349,6 @@ var (
 	philip                          2
 	philippi                        2
 	philippian                      2
-	philippians                     2
 	philippic                       2
 	philippine                      3 2
 	philippines                     2
@@ -55613,7 +55409,6 @@ var (
 	platysma                        2
 	platystemon                     2
 	plaudit                         2
-	plaudits                        2
 	plausibility                    2
 	plausible                       3
 	plausibleness                   2
@@ -55776,7 +55571,6 @@ var (
 	plication                       2
 	plicatoperipatus                2
 	plier                           2
-	pliers                          2
 	plight                          4 2
 	plimsoll                        2
 	plinth                          2
@@ -55905,7 +55699,6 @@ var (
 	ply                             2 4
 	plyboard                        2
 	plyer                           2
-	plyers                          2
 	plymouth                        2
 	plywood                         2
 	plzen                           2
@@ -56045,7 +55838,6 @@ var (
 	poisonous                       3
 	poisonously                     7
 	poitier                         2
-	poitiers                        2
 	poitou                          2
 	poitou-charentes                2
 	poivrade                        2
@@ -56145,7 +55937,6 @@ var (
 	pollinosis                      2
 	polliwog                        2
 	pollock                         2
-	polls                           2
 	pollster                        2
 	pollucite                       2
 	pollutant                       2
@@ -57098,7 +56889,6 @@ var (
 	prelature                       2
 	prelim                          2
 	preliminary                     2 3
-	prelims                         2
 	preliterate                     3
 	prelone                         2
 	prelude                         2 4
@@ -57530,7 +57320,6 @@ var (
 	proceed                         4
 	proceeding                      2
 	proceedings                     2
-	proceeds                        2
 	procellaria                     2
 	procellariidae                  2
 	procellariiformes               2
@@ -57646,7 +57435,6 @@ var (
 	profiterole                     2
 	profitless                      3
 	profitlessly                    7
-	profits                         2
 	profligacy                      2
 	profligate                      3 2
 	profligately                    7
@@ -57847,7 +57635,6 @@ var (
 	prophetic                       3
 	prophetical                     3
 	prophetically                   7
-	prophets                        2
 	prophylactic                    2 3
 	prophylaxis                     2
 	prophyll                        2
@@ -57887,7 +57674,6 @@ var (
 	proprioceptive                  3
 	proprioceptor                   2
 	proprionamide                   2
-	props                           2
 	propulsion                      2
 	propulsive                      3
 	propyl                          2
@@ -58092,7 +57878,6 @@ var (
 	proverb                         2
 	proverbial                      3
 	proverbially                    7
-	proverbs                        2
 	provide                         4
 	providence                      2
 	provident                       3
@@ -58110,7 +57895,6 @@ var (
 	provisionally                   7
 	provisionary                    3
 	provisioner                     2
-	provisions                      2
 	proviso                         2
 	provisory                       3
 	provitamin                      2
@@ -58595,7 +58379,6 @@ var (
 	punkah                          2
 	punkey                          2
 	punkie                          2
-	punks                           2
 	punky                           2
 	punnet                          2
 	punning                         2
@@ -58751,7 +58534,6 @@ var (
 	pussy                           3 2
 	pussy's-paw                     2
 	pussy-paw                       2
-	pussy-paws                      2
 	pussycat                        2
 	pussyfoot                       4
 	pussytoes                       2
@@ -59029,7 +58811,6 @@ var (
 	quake                           2 4
 	quaker                          2
 	quakerism                       2
-	quakers                         2
 	qualification                   2
 	qualified                       3
 	qualifier                       2
@@ -59092,7 +58873,6 @@ var (
 	quarterly                       3 7 2
 	quartermaster                   2
 	quartern                        2
-	quarters                        2
 	quarterstaff                    2
 	quartervine                     2
 	quartet                         2
@@ -59139,7 +58919,6 @@ var (
 	queenfish                       2
 	queenlike                       3
 	queenly                         3
-	queens                          2
 	queensland                      2
 	queer                           3 4 2
 	queerly                         7
@@ -59266,7 +59045,6 @@ var (
 	quitclaim                       2
 	quite                           7
 	quito                           2
-	quits                           3
 	quittance                       2
 	quitter                         2
 	quiver                          2 4
@@ -59283,7 +59061,6 @@ var (
 	quodlibet                       2
 	quoin                           2
 	quoit                           2
-	quoits                          2
 	quondam                         3
 	quoratean                       2
 	quorum                          2
@@ -59466,7 +59243,6 @@ var (
 	rafter                          4 2
 	raftered                        3
 	raftman                         2
-	rafts                           2
 	raftsman                        2
 	rag                             2 4
 	ragamuffin                      2
@@ -59502,7 +59278,6 @@ var (
 	railroad                        2 4
 	railroader                      2
 	railroading                     2
-	rails                           2
 	railway                         2
 	railwayman                      2
 	railyard                        2
@@ -59869,7 +59644,6 @@ var (
 	rayleigh                        2
 	rayless                         3
 	rayon                           2
-	rayons                          2
 	razbliuto                       2
 	raze                            4
 	razed                           3
@@ -60094,7 +59868,6 @@ var (
 	recede                          4
 	receding                        2 3
 	receipt                         2 4
-	receipts                        2
 	receivable                      3
 	receivables                     2
 	receive                         4
@@ -60631,7 +60404,6 @@ var (
 	regret                          2 4
 	regretful                       3
 	regretfully                     7
-	regrets                         2
 	regrettable                     3
 	regrettably                     7
 	regroup                         4
@@ -60734,7 +60506,6 @@ var (
 	relatiative                     3
 	relation                        2
 	relational                      3
-	relations                       2
 	relationship                    2
 	relative                        3 2
 	relative-in-law                 2
@@ -60814,7 +60585,6 @@ var (
 	remain                          4
 	remainder                       2 4
 	remaining                       3
-	remains                         2
 	remake                          2 4
 	remaking                        2
 	remand                          4 2
@@ -61250,7 +61020,6 @@ var (
 	respectfulness                  2
 	respective                      3
 	respectively                    7
-	respects                        2
 	respighi                        2
 	respiration                     2
 	respirator                      2
@@ -62047,7 +61816,6 @@ var (
 	roadless                        3
 	roadman                         2
 	roadrunner                      2
-	roads                           2
 	roadside                        2
 	roadstead                       2
 	roadster                        2
@@ -62073,7 +61841,6 @@ var (
 	robe                            2 4
 	robed                           3
 	robert                          2
-	roberts                         2
 	robertson                       2
 	robeson                         2
 	robespierre                     2
@@ -62112,7 +61879,6 @@ var (
 	rockcress                       2
 	rockefeller                     2
 	rocker                          2
-	rockers                         2
 	rockery                         2
 	rocket                          2 4
 	rocket-propelled                3
@@ -62262,7 +62028,6 @@ var (
 	roomily                         7
 	roominess                       2
 	roommate                        2
-	rooms                           2
 	roomy                           3 2
 	roosevelt                       2
 	rooseveltian                    3
@@ -62277,7 +62042,6 @@ var (
 	rootle                          4
 	rootless                        3
 	rootlet                         2
-	roots                           2
 	rootstalk                       2
 	rootstock                       2
 	rope                            4 2
@@ -62447,7 +62211,6 @@ var (
 	roundel                         2
 	roundelay                       2
 	rounder                         2
-	rounders                        2
 	roundhead                       2
 	roundheaded                     3
 	roundhouse                      2
@@ -62563,7 +62326,6 @@ var (
 	rudeness                        2
 	rudiment                        2
 	rudimentary                     3
-	rudiments                       2
 	rudra                           2
 	rue                             4 2
 	rueful                          3
@@ -63240,7 +63002,6 @@ var (
 	sandpiper                       2
 	sandpit                         2
 	sandril                         2
-	sands                           2
 	sandspur                        2
 	sandstone                       2
 	sandstorm                       2
@@ -63667,7 +63428,6 @@ var (
 	scablands                       2
 	scabrous                        3
 	scad                            2
-	scads                           2
 	scaffold                        2 4
 	scaffolding                     2
 	scag                            2
@@ -64143,7 +63903,6 @@ var (
 	scourge                         2 4
 	scourger                        2
 	scouring                        2
-	scours                          2
 	scouse                          2
 	scouser                         2
 	scout                           2 4
@@ -64177,7 +63936,6 @@ var (
 	scrappiness                     2
 	scrapple                        2
 	scrappy                         3
-	scraps                          2
 	scratch                         2 4
 	scratcher                       2
 	scratchiness                    2
@@ -64263,7 +64021,6 @@ var (
 	scrubbird                       2
 	scrubby                         3
 	scrubland                       2
-	scrubs                          2
 	scruff                          2
 	scruffy                         3
 	scrum                           2
@@ -64421,7 +64178,6 @@ var (
 	seatbelt                        2
 	seated                          3
 	seating                         2
-	seats                           2
 	seattle                         2
 	seawall                         2
 	seaward                         3 7 2
@@ -64856,7 +64612,6 @@ var (
 	sell                            2 4
 	sellable                        3
 	seller                          2
-	sellers                         2
 	selling                         2
 	selloff                         2
 	sellotape                       4 2
@@ -65313,7 +65068,6 @@ var (
 	sess                            2
 	sessile                         3
 	session                         2
-	sessions                        2
 	sestet                          2
 	set                             4 2 3
 	set-apart                       3
@@ -65356,7 +65110,6 @@ var (
 	seven-up                        2
 	sevener                         2
 	sevenfold                       3 7
-	sevens                          2
 	sevensome                       2
 	seventeen                       3 2
 	seventeenth                     2 3
@@ -65497,7 +65250,6 @@ var (
 	shaken                          3
 	shakeout                        2
 	shaker                          2
-	shakers                         2
 	shakespeare                     2
 	shakespearean                   2 3
 	shakespearian                   3 2
@@ -65650,7 +65402,6 @@ var (
 	sheared                         3
 	shearer                         2
 	shearing                        2
-	shears                          2
 	shearwater                      2
 	sheatfish                       2
 	sheath                          2
@@ -65697,7 +65448,6 @@ var (
 	sheikha                         2
 	sheikhdom                       2
 	shekel                          2
-	shekels                         2
 	sheldrake                       2
 	shelduck                        2
 	shelf                           2
@@ -66106,7 +65856,6 @@ var (
 	shtup                           2
 	shua                            2
 	shuck                           4 2
-	shucks                          2
 	shudder                         4 2
 	shuddering                      3
 	shudderingly                    7
@@ -66263,7 +66012,6 @@ var (
 	sightly                         3
 	sightread                       4
 	sightreader                     2
-	sights                          2
 	sightsee                        4
 	sightseeing                     2
 	sightseer                       2
@@ -66330,7 +66078,6 @@ var (
 	silene                          2
 	silent                          3
 	silently                        7
-	silents                         2
 	silenus                         2
 	silesia                         2
 	silex                           2
@@ -66353,7 +66100,6 @@ var (
 	silkily                         7
 	silkiness                       2
 	silklike                        3
-	silks                           2
 	silkscreen                      4 2
 	silkweed                        2
 	silkwood                        2
@@ -66367,7 +66113,6 @@ var (
 	sillaginidae                    2
 	sillago                         2
 	silliness                       2
-	sills                           2
 	silly                           3 2
 	silo                            2
 	siloxane                        2
@@ -66796,7 +66541,6 @@ var (
 	skinflint                       2
 	skinful                         2
 	skinhead                        2
-	skinheads                       2
 	skink                           2
 	skinless                        3
 	skinned                         3
@@ -66877,7 +66621,6 @@ var (
 	slacking                        2
 	slackly                         7
 	slackness                       2
-	slacks                          2
 	slag                            4 2
 	slagheap                        2
 	slain                           2 3
@@ -67003,7 +66746,6 @@ var (
 	sleuthhound                     2
 	sleuthing                       2
 	slew                            2 4
-	slews                           2
 	slezsko                         2
 	slice                           4 2
 	sliced                          3
@@ -67086,7 +66828,6 @@ var (
 	sloppily                        7
 	sloppiness                      2
 	sloppy                          3
-	slops                           2
 	slopseller                      2
 	slopshop                        2
 	slosh                           4
@@ -67306,7 +67047,6 @@ var (
 	smugness                        2
 	smut                            4 2
 	smutch                          4
-	smuts                           2
 	smuttily                        7
 	smuttiness                      2
 	smutty                          3
@@ -67395,7 +67135,6 @@ var (
 	sniper                          2
 	snippet                         2
 	snipping                        2
-	snips                           2
 	snit                            2
 	snitch                          4 2
 	snitcher                        2
@@ -67483,7 +67222,6 @@ var (
 	snuff-colour                    2
 	snuffbox                        2
 	snuffer                         2
-	snuffers                        2
 	snuffle                         2 4
 	snuffler                        2
 	snuffling                       3
@@ -67754,7 +67492,6 @@ var (
 	solomon                         2
 	solomon's-seal                  2
 	solomonic                       3
-	solomons                        2
 	solon                           2
 	solresol                        2
 	solstice                        2
@@ -67905,7 +67642,6 @@ var (
 	soppy                           3
 	sopranino                       3
 	soprano                         3 2
-	sops                            2
 	sorb                            4 2
 	sorbate                         2
 	sorbed                          3
@@ -68082,7 +67818,6 @@ var (
 	sovietise                       4
 	sovietism                       2
 	sovietize                       4
-	soviets                         2
 	sow                             4 2
 	sowbane                         2
 	sowbelly                        2
@@ -68480,7 +68215,6 @@ var (
 	spillane                        2
 	spiller                         2
 	spillikin                       2
-	spillikins                      2
 	spillover                       2
 	spillway                        2
 	spilogale                       2
@@ -68551,7 +68285,6 @@ var (
 	spiritless                      3
 	spiritlessness                  2
 	spiritous                       3
-	spirits                         2
 	spiritual                       3 2
 	spiritualisation                2
 	spiritualise                    4
@@ -68636,7 +68369,6 @@ var (
 	splintering                     2
 	splinterless                    3
 	splinterproof                   3
-	splinters                       2
 	splintery                       3
 	split                           4 3 2
 	split-pea                       2
@@ -68757,7 +68489,6 @@ var (
 	spotlessly                      7
 	spotlessness                    2
 	spotlight                       4 2
-	spots                           2
 	spotsylvania                    2
 	spotted                         3
 	spotter                         2
@@ -69012,7 +68743,6 @@ var (
 	stack                           4 2
 	stacked                         3
 	stacker                         2
-	stacks                          2
 	stacte                          2
 	staddle                         2
 	stadium                         2
@@ -69037,7 +68767,6 @@ var (
 	staggerer                       2
 	staggering                      3
 	staggeringly                    7
-	staggers                        2
 	staghead                        2
 	staghound                       2
 	stagily                         7
@@ -69065,7 +68794,6 @@ var (
 	stair-rod                       2
 	staircase                       2
 	stairhead                       2
-	stairs                          2
 	stairway                        2
 	stairwell                       2
 	stake                           2 4
@@ -69098,7 +68826,6 @@ var (
 	stall-fed                       3
 	stalling                        2
 	stallion                        2
-	stalls                          2
 	stalwart                        3 2
 	stalwartness                    2
 	stamboul                        2
@@ -69254,7 +68981,6 @@ var (
 	stationer                       2
 	stationery                      2
 	stationmaster                   2
-	stations                        2
 	statistic                       2
 	statistical                     3
 	statistically                   7
@@ -69434,7 +69160,6 @@ var (
 	stepped                         3
 	stepper                         2
 	steprelationship                2
-	steps                           2
 	stepsister                      2
 	stepson                         2
 	stepwise                        7 3
@@ -69666,7 +69391,6 @@ var (
 	stockpiling                     2
 	stockpot                        2
 	stockroom                       2
-	stocks                          2
 	stocktake                       2
 	stocktaker                      2
 	stocktaking                     2
@@ -69772,7 +69496,6 @@ var (
 	stoppered                       3
 	stopping                        2
 	stopple                         4 2
-	stops                           2
 	stopwatch                       2
 	storage                         2
 	storax                          2
@@ -69866,7 +69589,6 @@ var (
 	straiten                        4
 	straitjacket                    2
 	straitlaced                     3
-	straits                         2
 	strake                          2
 	strand                          2 4
 	stranded                        3
@@ -70710,7 +70432,6 @@ var (
 	summer-blooming                 3
 	summer-flowering                3
 	summercater                     2
-	summercaters                    2
 	summerhouse                     2
 	summerise                       4
 	summerize                       4
@@ -71247,7 +70968,6 @@ var (
 	sweater                         2
 	sweating                        2
 	sweatpants                      2
-	sweats                          2
 	sweatshirt                      2
 	sweatshop                       2
 	sweatsuit                       2
@@ -71269,7 +70989,6 @@ var (
 	sweet-smelling                  3
 	sweet-talk                      4
 	sweetbread                      2
-	sweetbreads                     2
 	sweetbriar                      2
 	sweetbrier                      2
 	sweeten                         4
@@ -71811,7 +71530,6 @@ var (
 	tailpipe                        2
 	tailplane                       2
 	tailrace                        2
-	tails                           2
 	tailspin                        2
 	tailstock                       2
 	tailwind                        2
@@ -71880,7 +71598,6 @@ var (
 	talkie                          2
 	talkily                         7
 	talking                         2
-	talks                           2
 	talky                           3
 	tall                            3 2
 	tall-grass                      2
@@ -72077,7 +71794,6 @@ var (
 	tapping                         2
 	taproom                         2
 	taproot                         2
-	taps                            2
 	tapster                         2
 	tar                             2 4
 	tar-wood                        2
@@ -72333,7 +72049,6 @@ var (
 	tearjerker                      2
 	tearless                        3
 	tearoom                         2
-	tears                           2
 	teary                           3
 	teary-eyed                      3
 	teasdale                        2
@@ -72401,7 +72116,6 @@ var (
 	teenage                         3
 	teenaged                        3
 	teenager                        2
-	teens                           2
 	teensy                          3
 	teensy-weensy                   3
 	teentsy                         3
@@ -72668,7 +72382,6 @@ var (
 	tenosynovitis                   2
 	tenpence                        2
 	tenpin                          2
-	tenpins                         2
 	tenpounder                      2
 	tenrec                          2
 	tenrecidae                      2
@@ -72767,7 +72480,6 @@ var (
 	terminus                        2
 	termite                         2
 	termitidae                      2
-	terms                           2
 	tern                            2
 	ternary                         3 2
 	ternate                         3
@@ -73392,7 +73104,6 @@ var (
 	threadfin                       2
 	threadfish                      2
 	threadlike                      3
-	threads                         2
 	threadworm                      2
 	thready                         3
 	threat                          2
@@ -73686,7 +73397,6 @@ var (
 	tiger                           2
 	tiger-striped                   3
 	tigerish                        3
-	tigers                          2
 	tight                           3 7
 	tight-fitting                   3
 	tight-knit                      3
@@ -74145,7 +73855,6 @@ var (
 	tonocard                        2
 	tonometer                       2
 	tonometry                       2
-	tons                            2
 	tonsil                          2
 	tonsilla                        2
 	tonsillectomy                   2
@@ -74236,7 +73945,6 @@ var (
 	topping                         2 3
 	toppingly                       7
 	topple                          4
-	tops                            3
 	topsail                         2
 	topside                         2
 	topsoil                         2
@@ -74622,7 +74330,6 @@ var (
 	transact                        4
 	transactinide                   2 3
 	transaction                     2
-	transactions                    2
 	transactor                      2
 	transalpine                     3 2
 	transaminase                    2
@@ -75272,7 +74979,6 @@ var (
 	trondheim                       2
 	troop                           2 4
 	trooper                         2
-	troops                          2
 	troopship                       2
 	tropaeolaceae                   2
 	tropaeolum                      2
@@ -75371,7 +75077,6 @@ var (
 	trumpet-wood                    2
 	trumpeter                       2
 	trumpetfish                     2
-	trumpets                        2
 	trumpetwood                     2
 	trumping                        2
 	truncate                        4 3
@@ -75382,7 +75087,6 @@ var (
 	trundle                         4 2
 	trunk                           2
 	trunkfish                       2
-	trunks                          2
 	trunnel                         2
 	truss                           4 2
 	trussed                         3
@@ -75541,7 +75245,6 @@ var (
 	tummy                           2
 	tumor                           2
 	tumour                          2
-	tums                            2
 	tumult                          2
 	tumultuous                      3
 	tumultuously                    7
@@ -75682,7 +75385,6 @@ var (
 	turpentine                      2
 	turpin                          2
 	turpitude                       2
-	turps                           2
 	turquoise                       2
 	turreae                         2
 	turret                          2
@@ -75804,7 +75506,6 @@ var (
 	twinkly                         3
 	twinned                         3
 	twinning                        3
-	twins                           2
 	twirl                           2 4
 	twirler                         2
 	twirlingly                      7
@@ -79112,7 +78813,6 @@ var (
 	velocity                        2
 	velodrome                       2
 	velour                          2
-	velours                         2
 	veloute                         2
 	velum                           2
 	velveeta                        2
@@ -79372,7 +79072,6 @@ var (
 	vespa                           2
 	vespasian                       2
 	vesper                          2
-	vespers                         2
 	vespertilio                     2
 	vespertilionid                  2
 	vespertilionidae                2
@@ -79427,7 +79126,6 @@ var (
 	viagra                          2
 	vial                            2
 	viand                           2
-	viands                          2
 	viatical                        3
 	viatication                     2
 	viaticus                        2
@@ -79502,7 +79200,6 @@ var (
 	victual                         4 2
 	victualer                       2
 	victualler                      2
-	victuals                        2
 	vicugna                         2
 	vicuna                          2
 	vidal                           2
@@ -79526,7 +79223,6 @@ var (
 	view                            2 4
 	viewable                        3
 	viewer                          2
-	viewers                         2
 	viewfinder                      2
 	viewgraph                       2
 	viewing                         2
@@ -80072,10 +79768,8 @@ var (
 	waddler                         2
 	wade                            4 2
 	wader                           2
-	waders                          2
 	wadi                            2
 	wading                          2
-	wads                            2
 	wafer                           2
 	wafer-like                      3
 	wafer-thin                      7 3
@@ -80190,7 +79884,6 @@ var (
 	walleyed                        3
 	wallflower                      2
 	walloon                         2
-	walloons                        2
 	wallop                          2 4
 	walloper                        2
 	walloping                       2 3
@@ -80434,7 +80127,6 @@ var (
 	waterproof                      4 2 3
 	waterproofed                    3
 	waterproofing                   2
-	waters                          2
 	waterscape                      2
 	watershed                       2
 	waterside                       2
@@ -80602,7 +80294,6 @@ var (
 	weeder                          2
 	weedkiller                      2
 	weedless                        3
-	weeds                           2
 	weedy                           3
 	week                            2
 	weekday                         2
@@ -80740,7 +80431,6 @@ var (
 	wellington                      2
 	wellness                        2
 	wellpoint                       2
-	wells                           2
 	wellspring                      2
 	welsh                           4 3 2
 	welsher                         2
@@ -80924,7 +80614,6 @@ var (
 	whisker                         2 4
 	whiskered                       3
 	whiskerless                     3
-	whiskers                        2
 	whiskery                        3
 	whiskey                         2
 	whisky                          2
@@ -81206,7 +80895,6 @@ var (
 	window-shop                     4
 	window-washing                  2
 	windowpane                      2
-	windows                         2
 	windowsill                      2
 	windpipe                        2
 	windscreen                      2
@@ -81361,7 +81049,6 @@ var (
 	witloof                         2
 	witness                         4 2
 	witnesser                       2
-	wits                            2
 	wittedness                      2
 	wittgenstein                    2
 	wittgensteinian                 3
@@ -81498,7 +81185,6 @@ var (
 	woodpecker                      2
 	woodpile                        2
 	woodruff                        2
-	woods                           2
 	woodscrew                       2
 	woodshed                        2
 	woodsia                         2
@@ -81557,7 +81243,6 @@ var (
 	wordmonger                      2
 	wordnet                         2
 	wordplay                        2
-	words                           2
 	wordsmith                       2
 	wordsworth                      2
 	wordsworthian                   3
@@ -81599,7 +81284,6 @@ var (
 	workpiece                       2
 	workplace                       2
 	workroom                        2
-	works                           2
 	worksheet                       2
 	workshop                        2
 	workspace                       2
@@ -82014,7 +81698,6 @@ var (
 	yawner                          2
 	yawning                         3 2
 	yawp                            4
-	yaws                            2
 	yay                             2
 	yazoo                           2
 	yb                              2
@@ -82034,7 +81717,6 @@ var (
 	yearner                         2
 	yearning                        2
 	yearningly                      7
-	years                           2
 	yeast                           2
 	yeastlike                       3
 	yeasty                          3
