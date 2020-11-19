@@ -18950,7 +18950,6 @@ var (
 	daylily                         2
 	daylong                         3 7
 	daypro                          2
-	days                            2
 	dayspring                       2
 	daystar                         2
 	daytime                         2
@@ -32754,7 +32753,6 @@ var (
 	hayrack                         2
 	hayrick                         2
 	hayrig                          2
-	hays                            2
 	hayseed                         2
 	haystack                        2
 	hayti                           2
@@ -44407,7 +44405,6 @@ var (
 	mayoress                        2
 	maypole                         2
 	maypop                          2
-	mays                            2
 	mayweed                         2
 	mazama                          2
 	mazar-i-sharif                  2
@@ -69008,7 +69005,6 @@ var (
 	stay-at-home                    2 3
 	stayer                          2
 	stayman                         2
-	stays                           2
 	staysail                        2
 	std                             2
 	stead                           2
@@ -80195,7 +80191,6 @@ var (
 	wayland                         2
 	waylay                          4
 	wayne                           2
-	ways                            2
 	wayside                         2
 	wayward                         3
 	wb                              2
