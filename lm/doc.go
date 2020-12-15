@@ -1,4 +1,4 @@
 /*
-Package lm provides interfaces and base implementation of lexeme lemmatization.
+Package lm provides interfaces and base implementation of word lemmatization.
 */
 package lm

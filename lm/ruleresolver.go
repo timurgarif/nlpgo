@@ -6,7 +6,7 @@ import (
 	"github.com/timurgarif/nlpgo"
 )
 
-// Rule defines an affix-related attributes to restore a lemma from a lexeme.
+// Rule defines an affix-related attributes to restore a lemma from a word.
 // Currently only suffix-based rules are supported.
 type Rule struct {
 	Affix string
@@ -21,10 +21,10 @@ type RuleTransform struct {
 	// A compensative affix to augment to a word after Affix detaching
 	// [optional]
 	Augment string
-	// Minimal lexeme length used as a threshold trigger to apply the rule.
+	// Minimal word length used as a threshold trigger to apply the rule.
 	// [optional] (ignored if zero value).
 	MinValidLen int
-	// A regexp to validate the lexeme before applying the affix detaching.
+	// A regexp to validate the word before applying the affix detaching.
 	// [optional]
 	ReBefore *regexp.Regexp
 	// A regexp to validate the lemma candidate after Affix detaching
@@ -41,32 +41,32 @@ func NewSuffixRuleResolver(rules []Rule, lc LmChecker) LmResolver {
 	return &ruleResolver{rs: rules, lc: lc}
 }
 
-func (rr *ruleResolver) Resolve(lexeme string, acc LemmaAccumulator, max int) {
-	lxmRuneLen := len([]rune(lexeme))
-	lxmLen := len(lexeme)
+func (rr *ruleResolver) Resolve(word string, acc LemmaAccumulator, max int) {
+	wdRuneLen := len([]rune(word))
+	wdLen := len(word)
 
 	// If no rules are specified yield no lemma candidates
 	if rr.rs == nil {
 		return
 	}
 
-	// If no lemma cheker, consider the lexeme is lemma
+	// If no lemma cheker, consider the word is lemma
 	if rr.lc == nil {
-		acc.Set(lexeme, nil)
+		acc.Set(word, nil)
 		return
 	}
 
 	for _, r := range rr.rs {
-		// Match the lexeme ending to suffix
-		sfxStartIndex := lxmLen - len(r.Affix)
+		// Match the word ending to suffix
+		sfxStartIndex := wdLen - len(r.Affix)
 		if sfxStartIndex <= 0 ||
-			r.Affix != lexeme[sfxStartIndex:] {
+			r.Affix != word[sfxStartIndex:] {
 			continue
 		}
 
 		// Apply transforms until successful match or end
 		for _, rt := range r.Transforms {
-			c := rt.transform(lexeme, lxmRuneLen)
+			c := rt.transform(word, wdRuneLen)
 
 			if c == "" {
 				continue
@@ -87,7 +87,7 @@ func (rr *ruleResolver) Resolve(lexeme string, acc LemmaAccumulator, max int) {
 				}
 			}
 			// If any rule POS forms correspond to the cheker lemma POS'es
-			// then a proper lexeme -> lemma match found
+			// then a proper word -> lemma match found
 			if len(pp) > 0 {
 				acc.Set(l.Val, pp)
 
@@ -100,21 +100,21 @@ func (rr *ruleResolver) Resolve(lexeme string, acc LemmaAccumulator, max int) {
 	}
 }
 
-func (rt *RuleTransform) transform(lexeme string, lxmRuneLen int) string {
-	if lxmRuneLen < rt.MinValidLen {
+func (rt *RuleTransform) transform(word string, wdRuneLen int) string {
+	if wdRuneLen < rt.MinValidLen {
 		return ""
 	}
-	detachIndex := lxmRuneLen - rt.Cutoff
+	detachIndex := wdRuneLen - rt.Cutoff
 	if detachIndex <= 0 {
 		return ""
 	}
 
 	// Apply pre-op regexp
-	if rt.ReBefore != nil && !rt.ReBefore.MatchString(lexeme) {
+	if rt.ReBefore != nil && !rt.ReBefore.MatchString(word) {
 		return ""
 	}
 
-	c := string([]rune(lexeme)[:detachIndex]) + rt.Augment
+	c := string([]rune(word)[:detachIndex]) + rt.Augment
 
 	// Apply post-op regexp
 	if rt.ReAfter != nil && !rt.ReAfter.MatchString(c) {

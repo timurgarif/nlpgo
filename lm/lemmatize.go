@@ -7,7 +7,7 @@ import (
 type Lemma struct {
 	// Lemma value
 	Val string
-	// Optional list of possible Parts Of Speech for the lexeme parsed.
+	// Optional list of possible Parts Of Speech for the word parsed.
 	Pos []nlpgo.POSId
 }
 
@@ -26,7 +26,7 @@ type LmChecker interface {
 type LmResolver interface {
 	// Resolves lemmata and adds them to acc. It should stop resolving if total
 	// acc size >= max
-	Resolve(lexeme string, acc LemmaAccumulator, max int)
+	Resolve(word string, acc LemmaAccumulator, max int)
 }
 
 // Lemmatizer type implements lemmatization
@@ -36,9 +36,6 @@ type Lemmatizer struct {
 	acc LemmaAccumulator
 }
 
-// LexemeIdx is a lookup table for the lexeme -> lemma direct mapping
-type LexemeIdx map[string]string
-
 // LmOption defines a functional option type for the Lemmatizer
 type LmOption func(*Lemmatizer)
 
@@ -47,8 +44,8 @@ func NewLemmatizer(lkpr LmChecker, resolvers []LmResolver, opts ...LmOption) *Le
 }
 
 // Lemmatize returns the first resolved lemma
-func (l Lemmatizer) Lemmatize(lexeme string) Lemma {
-	cc := l.LemmaCandidates(lexeme, 1)
+func (l Lemmatizer) Lemmatize(word string) Lemma {
+	cc := l.LemmaCandidates(word, 1)
 	if len(cc) > 0 {
 		return cc[0]
 	}
@@ -57,23 +54,23 @@ func (l Lemmatizer) Lemmatize(lexeme string) Lemma {
 }
 
 // LemmaCandidates returns up to `max` lemma candidates for
-// the given lexeme.
+// the given word.
 // The order of the candidates in the returning array depends on:
 //	- the order of the resolvers passed in to the Lemmatizer constructor
 //	- the internal policy of each resolver
-func (l Lemmatizer) LemmaCandidates(lexeme string, max int) (candidates []Lemma) {
+func (l Lemmatizer) LemmaCandidates(word string, max int) (candidates []Lemma) {
 	if max <= 0 {
 		max = 5
 	}
 
-	if lexeme == "" {
+	if word == "" {
 		return
 	}
 
 	l.acc.clear()
 
 	// First check if input is already a lemma
-	if lm := l.lc.lookup(lexeme); lm.Val != "" {
+	if lm := l.lc.lookup(word); lm.Val != "" {
 		l.acc.Set(lm.Val, lm.Pos)
 	}
 
@@ -84,7 +81,7 @@ func (l Lemmatizer) LemmaCandidates(lexeme string, max int) (candidates []Lemma)
 
 	// Apply resolvers
 	for _, r := range l.rs {
-		r.Resolve(lexeme, l.acc, max)
+		r.Resolve(word, l.acc, max)
 		if len(l.acc) >= max {
 			candidates = l.acc.lemmata(max)
 			return

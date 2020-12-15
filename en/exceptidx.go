@@ -8,7 +8,7 @@ import (
 // An alias for shorter literal footprint.
 type p = []nlpgo.POSId
 
-// ExceptionsIdx stores lexeme exceptions to the regular English inflection forms
+// ExceptionsIdx stores exceptions to the regular English inflection forms
 // like irregular word, irregular plural nouns etc.
 // The exception list is decent but not thorough, consider extending it if required.
 var ExceptionsIdx = map[string][]lm.Lemma{
